@@ -1,0 +1,1 @@
+Hello! We’d like to send you occasional text updates on your home sensor readings (temperature, humidity, etc.). Please respond with a yes or no to opt in or out!
