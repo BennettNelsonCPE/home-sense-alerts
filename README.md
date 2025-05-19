@@ -1,1 +1,2 @@
-To opt in/out, please open user_opt_i_o and find a time to meet in person for agreement to notifications, thanks in advance!
+To opt in/out, please read statement below and find a time to meet in person for agreement to notifications, thanks in advance!
+Hello! We’d like to send you occasional text updates on your home sensor readings (temperature, humidity, etc.). Please respond with a yes or no to opt in or out, and respond with STOP if you would no longer like to recieve notifications.
